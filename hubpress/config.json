@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "nickwanhere",
-    "repositoryName": "nickwanhere.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"nickwanhere","repositoryName":"nickwanhere.github.io","branch":"master"},"site":{"title":"Nicholas Wan","postsPerPage":"5","googleAnalytics":"UA-75134923-1","url":"https://nickwanhere.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//nickwanhere.github.io/themes/Casper"}}
